@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 110
+black_pawn.png
+black_horse.png
+white_king.png
+white_horse.png
+white_pawn.png
+white_bishop.png
+white_queen.png
+
+END

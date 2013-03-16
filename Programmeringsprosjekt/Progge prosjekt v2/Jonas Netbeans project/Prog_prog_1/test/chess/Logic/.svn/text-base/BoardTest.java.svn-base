@@ -1,0 +1,99 @@
+/*
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package chess.Logic;
+
+import chess.Models.Piece;
+import org.junit.After;
+import org.junit.AfterClass;
+import org.junit.Before;
+import org.junit.BeforeClass;
+import org.junit.Test;
+import static org.junit.Assert.*;
+
+/**
+ *
+ * @author Jonas Bo Grimsgaard <jonasbg@gmail.com>
+ */
+public class BoardTest {
+    
+    public BoardTest() {
+    }
+
+    @BeforeClass
+    public static void setUpClass() throws Exception {
+    }
+
+    @AfterClass
+    public static void tearDownClass() throws Exception {
+    }
+    
+    @Before
+    public void setUp() {
+    }
+    
+    @After
+    public void tearDown() {
+    }
+
+    /**
+     * Test of initPieces method, of class Board.
+     */
+    @Test
+    public void testInitPieces() {
+        System.out.println("initPieces");
+        Board instance = new Board();
+        //instance.initPieces();
+        // TODO review the generated test code and remove the default call to fail.
+        fail("The test case is a prototype.");
+    }
+
+    /**
+     * Test of getPieceAt method, of class Board.
+     */
+    @Test
+    public void testGetPieceAt() {
+        System.out.println("getPieceAt");
+        int x = 0;
+        int y = 0;
+        Board instance = new Board();
+        Piece expResult = null;
+        Piece result = instance.getPieceAt(x, y);
+        assertEquals(expResult, result);
+        // TODO review the generated test code and remove the default call to fail.
+        fail("The test case is a prototype.");
+    }
+
+    /**
+     * Test of movePieceTo method, of class Board.
+     */
+    @Test
+    public void testMovePieceTo() {
+        System.out.println("movePieceTo");
+        int fromX = 0;
+        int fromY = 0;
+        int toX = 0;
+        int toY = 0;
+        Board instance = new Board();
+        //instance.movePieceTo(fromX, fromY, toX, toY);
+        // TODO review the generated test code and remove the default call to fail.
+        fail("The test case is a prototype.");
+    }
+
+    /**
+     * Test of takeSpot method, of class Board.
+     */
+    @Test
+    public void testTakeSpot() {
+        System.out.println("takeSpot");
+        int fromX = 0;
+        int fromY = 0;
+        int toX = 0;
+        int toY = 0;
+        Board instance = new Board();
+        //instance.takeSpot(fromX, fromY, toX, toY);
+        // TODO review the generated test code and remove the default call to fail.
+        fail("The test case is a prototype.");
+    }
+}

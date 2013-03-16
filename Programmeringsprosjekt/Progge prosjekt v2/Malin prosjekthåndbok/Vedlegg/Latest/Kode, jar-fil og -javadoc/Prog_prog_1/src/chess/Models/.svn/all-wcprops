@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/187/Prog_prog_1/src/chess/Models
+END
+Piece.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/159/Prog_prog_1/src/chess/Models/Piece.java
+END
+Bishop.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/159/Prog_prog_1/src/chess/Models/Bishop.java
+END
+Knight.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/159/Prog_prog_1/src/chess/Models/Knight.java
+END
+Queen.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/159/Prog_prog_1/src/chess/Models/Queen.java
+END
+Rook.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/170/Prog_prog_1/src/chess/Models/Rook.java
+END
+Pawn.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/159/Prog_prog_1/src/chess/Models/Pawn.java
+END
+King.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/159/Prog_prog_1/src/chess/Models/King.java
+END
+Move.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/187/Prog_prog_1/src/chess/Models/Move.java
+END

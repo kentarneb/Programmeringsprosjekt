@@ -1,0 +1,81 @@
+K 26
+svn:wc:ra_dav:activity-url
+V 14
+/svn/!svn/act/
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/172/Prog_prog_1/src/resources/graphics
+END
+b_pawn.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/61/Prog_prog_1/src/resources/graphics/b_pawn.png
+END
+w_bishop.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/61/Prog_prog_1/src/resources/graphics/w_bishop.png
+END
+w_knight.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/68/Prog_prog_1/src/resources/graphics/w_knight.png
+END
+b_rook.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/172/Prog_prog_1/src/resources/graphics/b_rook.png
+END
+b_bishop.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/61/Prog_prog_1/src/resources/graphics/b_bishop.png
+END
+b_knight.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/68/Prog_prog_1/src/resources/graphics/b_knight.png
+END
+b_queen.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/61/Prog_prog_1/src/resources/graphics/b_queen.png
+END
+w_king.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/61/Prog_prog_1/src/resources/graphics/w_king.png
+END
+w_pawn.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/61/Prog_prog_1/src/resources/graphics/w_pawn.png
+END
+w_rook.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/172/Prog_prog_1/src/resources/graphics/w_rook.png
+END
+w_queen.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/61/Prog_prog_1/src/resources/graphics/w_queen.png
+END
+b_king.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/62/Prog_prog_1/src/resources/graphics/b_king.png
+END

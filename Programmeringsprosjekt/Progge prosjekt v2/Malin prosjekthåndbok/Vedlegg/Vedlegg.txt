@@ -1,0 +1,8 @@
+
+- Timeliste med statusrapport
+
+- Dokumentasjon av kildekoden (Javadoc vedlegg)
+
+- Testing av koden 
+
+- Testing av sluttproduktet

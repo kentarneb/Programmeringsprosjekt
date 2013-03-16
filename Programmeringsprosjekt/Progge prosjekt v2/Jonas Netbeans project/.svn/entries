@@ -1,0 +1,51 @@
+10
+
+dir
+15
+https://chess-project.googlecode.com/svn
+https://chess-project.googlecode.com/svn
+
+
+
+2012-03-15T10:09:25.764815Z
+15
+m_schei@hotmail.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+aaec48ce-987d-8693-b9ac-31b9039d14a1
+
+
+
+
+
+
+
+
+((conflict UltimateChessPro dir update edited deleted (version https://chess-project.googlecode.com/svn 2 14 UltimateChessPro 0 ) (version https://chess-project.googlecode.com/svn 2 15 UltimateChessPro dir)))
+
+Chess v2
+dir
+
+
+
+add
+
+UltimateChessPro
+dir
+
+
+
+delete
+
